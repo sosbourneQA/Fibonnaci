@@ -1,3 +1,2 @@
 # FiBonacci
-# Fibonnaci
-# Fibonnaci
+
